@@ -1,0 +1,116 @@
+.zero
+{
+    height: 50px;
+    width:100%;
+    background-color: black;
+    color:white;
+}
+.one
+{
+    position: absolute;
+    top:10px;
+    padding: 10px;
+}
+.two
+{
+    position: absolute;
+    right: 270px;
+    padding: 10PX;
+}
+.three
+{
+    position: absolute;
+    right: 200px;
+    padding: 10PX;
+}
+.four
+{
+    position: absolute;
+    right: 120px;
+    padding: 10PX;
+}
+.five
+{
+    position: absolute;
+    right: 50px;
+    padding: 10PX;
+}
+.head
+{
+    display: flex;
+}
+.six
+{
+    height: 220px;
+    width: 70%;
+    display: flex;
+}
+.seven{
+    background: linear-gradient(to bottom left, red ,yellow);
+    height: 250px;
+    width: 70%;
+    padding: 30px;
+    position: absolute;
+    font-size: 30px;
+}
+.eight
+{
+position: absolute;
+top: 140px;
+left: 10px;
+}
+
+.nine {
+    position: absolute;
+    top: 160px;
+    left: 30px;
+    display: flex;
+    align-items: flex-start; /* Align items at the top */
+    gap: 10px; /* Optional: Adds space between the image and the text */
+}
+
+
+.nine img {
+    height: 150px;
+    width: 120px;
+    object-fit: fill; /* Ensures the image fits within the given dimensions */
+}
+
+
+
+.zerone
+{
+background-color:violet ;
+height: 310px;
+width: 380px;
+margin-left: 72px;
+}
+.zerothree
+{
+    display: flex;
+}
+.zerofour
+{
+    border: 2px solid  gray;
+    height: 150px;
+    width: 200px;
+    background-color: gray;
+    margin-right: 20px;
+   
+}
+.zerofive
+{
+    border: 2px solid  gray;
+    height: 150px;
+    width: 200px;
+    margin-right: 20px;
+    background-color: gray;
+   
+}
+.zerosix
+{
+    border: 2px solid  gray;
+    height: 150px;
+    width: 200px;
+    background-color: gray;
+}
